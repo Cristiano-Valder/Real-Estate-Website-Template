@@ -1,0 +1,8 @@
+Collor pallet
+
+
+Logo: #f49d19, black;
+
+Test background: #8E8373 and #BA8E4C and black
+
+
